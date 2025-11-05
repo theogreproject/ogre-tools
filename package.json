@@ -1,0 +1,11 @@
+{
+  "name": "ogre-tools",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "lint:md": "echo 'stub markdownlint'",
+    "lint:a11y": "echo 'stub a11y-lint'",
+    "check:links": "echo 'stub link-check'"
+  }
+}
